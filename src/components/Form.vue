@@ -50,6 +50,7 @@ export default {
 </script>
 
 <style scoped>
+
   .form-card {
     max-width: 500px;
     margin: auto;
@@ -57,5 +58,9 @@ export default {
 
   .type-select {
     width: 100%;
+  }
+
+  .submitBtn {
+    text-align: right;
   }
 </style>
